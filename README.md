@@ -1,2 +1,2 @@
 # html-resume
-It's just my simple resume 
+It's just my simple resume
